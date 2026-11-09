@@ -57,7 +57,7 @@ GitHub Pages is available for public repositories on GitHub Free. The site is st
 - Replace `assets/Sahil_Khan_Resume.pdf` whenever you update your resume.
 - Add live demo URLs to project cards only after the relevant app is deployed and publicly accessible. At present, project cards link to source repositories; this avoids presenting an unverified demo as live.
 - Kaggle is linked, but no notebook titles or Kaggle metrics are stated because the public profile did not expose readable notebook details during preparation.
-- Add a high-resolution portrait in a future revision if desired. The current hero uses a designed monogram visual rather than a low-resolution profile thumbnail.
+- The hero includes `profile pic.jpeg` as the primary portrait. Replace that file with a similarly framed image if you want to update the profile photo.
 
 ## Contact behavior
 
