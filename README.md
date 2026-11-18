@@ -54,7 +54,7 @@ GitHub Pages is available for public repositories on GitHub Free. The site is st
 ## What to customize before publishing
 
 - Confirm the preferred public contact email. The current version uses the personal email from `CV.pdf`.
-- Replace `assets/Sahil_Khan_Resume.pdf` whenever you update your resume.
+- Replace `assets/AI_ML_Engineer.pdf` whenever you update your resume.
 - Add live demo URLs to project cards only after the relevant app is deployed and publicly accessible. At present, project cards link to source repositories; this avoids presenting an unverified demo as live.
 - Kaggle is linked, but no notebook titles or Kaggle metrics are stated because the public profile did not expose readable notebook details during preparation.
 - The hero includes `profile pic.jpeg` as the primary portrait. Replace that file with a similarly framed image if you want to update the profile photo.
